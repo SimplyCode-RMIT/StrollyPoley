@@ -1,2 +1,2 @@
-# StrollyPoley
-Simply Code's A3 Strolly Poley Project
+# StrollyPoly
+Simply Code's A3 Strolly Poly Project
